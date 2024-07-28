@@ -1,5 +1,10 @@
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 just once
 >>>>>>> 1b134cd (msg)
+=======
+just once
+new commit
+>>>>>>> 597b792 (third)
